@@ -13,3 +13,5 @@ $ pipenv install diagrams
 ## using poetry
 $ poetry add diagram
 
+# Debugging 
+https://stackoverflow.com/questions/35064304/runtimeerror-make-sure-the-graphviz-executables-are-on-your-systems-path-aft 
